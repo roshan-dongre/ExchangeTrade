@@ -1,16 +1,3 @@
-"""
-Quantlab Coding Assignment-  Roshan Dongre
-
-To run the program just run writeOut.py in the command line with Stock.py
-and the input file in the same directory. The output file will be created
-in the same directory as well
-
-This assignment took me 55 minutes, mainly because I was dumb and forgot how 
-to read a csv file in python in the beginning so that took some time to remember 
-how to do that!
-
-"""
-
 import Stock
 import csv
 
